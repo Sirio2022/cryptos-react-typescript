@@ -2,6 +2,15 @@
 
 Esta aplicación es un cotizador de criptomonedas en tiempo real, permitiendo a los usuarios buscar y visualizar los precios actuales de sus criptomonedas favoritas.
 
+# Librerias
+
+    axios: 1.7.2
+    react: 18.3.1
+    react-dom: 18.3.1
+    react-hook-form: 7.52.0
+    valibot: 0.35.0
+    zustand: 4.5.4
+
 ## Instalación
 
 Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
