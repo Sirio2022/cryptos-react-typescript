@@ -2,6 +2,9 @@
 
 Esta aplicación es un cotizador de criptomonedas en tiempo real, permitiendo a los usuarios buscar y visualizar los precios actuales de sus criptomonedas favoritas.
 
+![Captura de pantalla 2024-06-30 101334](https://github.com/Sirio2022/cryptos-react-typescript/assets/105917953/ee0c3957-c6b3-4ecc-8f4f-0082817d507d)
+
+
 # Librerias
 
     axios: 1.7.2
